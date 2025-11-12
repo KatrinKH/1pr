@@ -4,4 +4,4 @@
 Этот репозиторий является каркасом для будущего веб-приложения.
 
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://github.com/KatrinKH/1pr.git/)
+- [Публичная страница на GitHub Pages](https://KatrinKH.github.io/1pr.git/)
